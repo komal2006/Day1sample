@@ -83,3 +83,12 @@ print(s2)
 
 var s3=str1.lowercased()
 print(s3)
+
+var s4=str1.uppercased()
+print(s4)
+
+var str2="aaabbbbccdad"
+var cnt=0
+
+
+
