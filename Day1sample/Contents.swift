@@ -1,27 +1,15 @@
-//
-//  main.swift
-//  Day1sample
-//
-//  Created by MacStudent on 2019-10-07.
-//  Copyright © 2019 MacStudent. All rights reserved.
-//
-
-import Foundation
-
-print("Hello, World!")
-
-
+import UIKit
 
 /*var str = "Hello, playground"
- //str=100
- print(str)
- var s: Int = 100
- print(s)
- 
- let a = 200
- 
- //a = 300
- print(a)*/
+//str=100
+print(str)
+var s: Int = 100
+print(s)
+
+let a = 200
+
+//a = 300
+print(a)*/
 var a = 30
 var b = 10
 var sum = a+b
